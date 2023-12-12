@@ -8,3 +8,7 @@ Gradient Boosting Regressor,
 Ridge Regression,
 SGDRegression,
 Neural Network.
+## File "graphs_of_the_project" 
+Contains analysing of dataset 
+## File "project_model"
+Contains changing dataset and building and training models
