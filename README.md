@@ -14,3 +14,6 @@ Contains analysing of dataset
 Contains changing dataset and building and training models
 ## File "diamonds.csv" 
 Original dataset 
+## File "train.csv"
+Changed dataset for training model
+
