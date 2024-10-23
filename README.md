@@ -12,3 +12,5 @@ Neural Network.
 Contains analysing of dataset 
 ## File "project_model"
 Contains changing dataset and building and training models
+## File "diamonds.csv" 
+Original dataset 
